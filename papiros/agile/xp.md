@@ -11,10 +11,10 @@ date: "2025-08-02"
 eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.
 
 ## ☰ Características
-1. **CI (Continuous Integration)** – Integração contínua do código para reduzir conflitos e problemas de integração.  
+1. **CI (Continuous Integration)** – ...
 2. **CD (Continuous Delivery)** – Entregas frequentes em **releases curtas**, garantindo valor rápido ao cliente.  
-3. **CR (Continuous Refactoring)** – Refatoração contínua para manter o código limpo e sustentável.  
-4. **TDD (Test-Driven Development)** – Desenvolvimento orientado a testes para assegurar qualidade desde o início.
+3. **CR (Continuous Refactoring)** – Refatoração contínua para manter o código limpo, sustentável, padronizado.  
+4. **TDD (Test-Driven Development)** – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.
 
 ## 🛕 Valores
 
