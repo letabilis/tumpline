@@ -23,7 +23,7 @@ eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica
 |---|-----------------|-----------|
 | 1 | **Comunicação** | Cada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto. |
 | 2 | **Simplicidade** | Foco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto. |
-| 3 | **Feedback**    | Testes constantes e ciclos de feedback mantêm a qualidade do produto sob controle. |
+| 3 | **Feedback**    | Permite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor. |
 | 4 | **Coragem**     | Cada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto. |
 | 5 | **Respeito**    | Cada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa. |
 
