@@ -41,7 +41,9 @@ Indicado para **pequenos times auto-organizáveis**:
 ## 📦 Artefatos
 1. **Product Backlog (PB)**
 2. **Sprint Backlog (SB)**
-    > Lista priorizada de itens do PB selecionados para a Sprint, junto com um plano de entrega  
+    > Itens do PB selecionados/priorizados
+    > Metas
+    > Plano de entrega
 3. **Incremento**
     > Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores
 
@@ -64,7 +66,7 @@ Indicado para **pequenos times auto-organizáveis**:
 
 ***
 
-## 👥 Papéis
+## 👥 Time SCRUM
 ### 🧭 Product Owner
 - Gerenciar prioridades no PB  
 - Definir metas do produto  
