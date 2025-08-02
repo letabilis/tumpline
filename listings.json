@@ -1,6 +1,9 @@
 [
   {
     "listing": "/papiros.html",
-    "items": []
+    "items": [
+      "/papiros/agile/xp.html",
+      "/papiros/agile/scrum.html"
+    ]
   }
 ]
