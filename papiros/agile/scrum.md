@@ -8,6 +8,8 @@ date: "2025-08-01"
 # 🚀 SCRUM
 
 ---
+## 📖 Definição
+Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo. 
 
 ## ☰ Características
 1. Baseado em **Empirismo**, **Lean** e **Agile**
@@ -43,7 +45,7 @@ Indicado para **pequenos times auto-organizáveis**:
 
 ## 📅 Eventos
 
-![resumo dos eventos scrum](eventos.png)
+![resumo dos eventos scrum](assets/eventosscrum.png)
 
 ### ⏱ Timebox
 | Evento               | ⏳ Duração Máxima |
