@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "papiros.html",
+    "href": "papiros.html",
+    "title": "Explore alguns papiros presentes em minha Tumpline…",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html",
+    "href": "papiros/agile/scrum.html",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo.\n\n\n\n\n\nBaseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)\n\n\n\n\n\nIndicado para pequenos times auto-organizáveis: - Até 10 pessoas\n\n\n\n\n\n\n\n\n\n\n\n\n#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças\n\n\n\n\n\n\n\n\nProduct Backlog (PB)\nSprint Backlog (SB) &gt; Lista priorizada de itens do PB selecionados para a Sprint, junto com um plano de entrega\n\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores\n\n\n\n\n\n\n\n\nresumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\n\n\n\n\nGerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#definição",
+    "href": "papiros/agile/scrum.html#definição",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo."
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#características",
+    "href": "papiros/agile/scrum.html#características",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Baseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#quando-usar",
+    "href": "papiros/agile/scrum.html#quando-usar",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Indicado para pequenos times auto-organizáveis: - Até 10 pessoas"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#pilares",
+    "href": "papiros/agile/scrum.html#pilares",
+    "title": "SCRUM",
+    "section": "",
+    "text": "#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#artefatos",
+    "href": "papiros/agile/scrum.html#artefatos",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Product Backlog (PB)\nSprint Backlog (SB) &gt; Lista priorizada de itens do PB selecionados para a Sprint, junto com um plano de entrega\n\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#eventos",
+    "href": "papiros/agile/scrum.html#eventos",
+    "title": "SCRUM",
+    "section": "",
+    "text": "resumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog."
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#papéis",
+    "href": "papiros/agile/scrum.html#papéis",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+  },
+  {
+    "objectID": "papiros/agile/xp.html",
+    "href": "papiros/agile/xp.html",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
+  },
+  {
+    "objectID": "papiros/agile/xp.html#definição",
+    "href": "papiros/agile/xp.html#definição",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#características",
+    "href": "papiros/agile/xp.html#características",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#valores",
+    "href": "papiros/agile/xp.html#valores",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#práticas",
+    "href": "papiros/agile/xp.html#práticas",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "Ciclo de Práticas XP"
+  }
+]
