@@ -67,7 +67,7 @@
     "href": "papiros/agile/scrum.html",
     "title": "SCRUM",
     "section": "",
-    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo.\n\n\n\n\n\nBaseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)\n\n\n\n\n\nIndicado para pequenos times auto-organizáveis: - Até 10 pessoas\n\n\n\n\n\n\n\n\n\n\n\n\n#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças\n\n\n\n\n\n\n\n\nProduct Backlog (PB)\nSprint Backlog (SB) &gt; Lista priorizada de itens do PB selecionados para a Sprint, junto com um plano de entrega\n\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores\n\n\n\n\n\n\n\n\nresumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\n\n\n\n\nGerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo.\n\n\n\n\n\nBaseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)\n\n\n\n\n\nIndicado para pequenos times auto-organizáveis: - Até 10 pessoas\n\n\n\n\n\n\n\n\n\n\n\n\n#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças\n\n\n\n\n\n\n\n\nProduct Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores\n\n\n\n\n\n\n\n\nresumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\n\n\n\n\nGerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
   },
   {
     "objectID": "papiros/agile/scrum.html#definição",
@@ -102,7 +102,7 @@
     "href": "papiros/agile/scrum.html#artefatos",
     "title": "SCRUM",
     "section": "",
-    "text": "Product Backlog (PB)\nSprint Backlog (SB) &gt; Lista priorizada de itens do PB selecionados para a Sprint, junto com um plano de entrega\n\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores"
+    "text": "Product Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores"
   },
   {
     "objectID": "papiros/agile/scrum.html#eventos",
@@ -112,8 +112,8 @@
     "text": "resumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog."
   },
   {
-    "objectID": "papiros/agile/scrum.html#papéis",
-    "href": "papiros/agile/scrum.html#papéis",
+    "objectID": "papiros/agile/scrum.html#time-scrum",
+    "href": "papiros/agile/scrum.html#time-scrum",
     "title": "SCRUM",
     "section": "",
     "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
