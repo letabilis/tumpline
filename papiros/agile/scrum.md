@@ -7,22 +7,26 @@ date: "2025-08-01"
 
 # 🚀 SCRUM
 
----
+***
+
 ## 📖 Definição
 Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo. 
+
+***
 
 ## ☰ Características
 1. Baseado em **Empirismo**, **Lean** e **Agile**
 2. **Iterativo e Incremental (I & I)**
 3. Executado em **Ciclos (Sprints)**
 
----
+***
 
 ## ☢ Quando usar?
 Indicado para **pequenos times auto-organizáveis**:
 - Até **10 pessoas**
 
----
+***
+
 ## 🛕 Pilares
 
 | # | Pilar            | Descrição |
@@ -31,8 +35,7 @@ Indicado para **pequenos times auto-organizáveis**:
 | 2 | **Inspeção**      | Avaliar regularmente o progresso e o trabalho realizado |
 | 3 | **Adaptação**     | Ajustar planos rapidamente diante de descobertas ou mudanças |
 
-
----
+***
 
 ## 📦 Artefatos
 1. **Product Backlog (PB)**
@@ -41,7 +44,7 @@ Indicado para **pequenos times auto-organizáveis**:
 3. **Incremento**
     > Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores
 
----
+***
 
 ## 📅 Eventos
 
@@ -58,7 +61,7 @@ Indicado para **pequenos times auto-organizáveis**:
 ### 🔍 Spike
 > Atividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.
 
----
+***
 
 ## 👥 Papéis
 ### 🧭 Product Owner
@@ -74,6 +77,4 @@ Indicado para **pequenos times auto-organizáveis**:
 ### 🛠 Developers
 - Gerenciar o SB  
 - Estimar e executar tarefas  
-- Entregar incrementos de valor  
-
----
+- Entregar incrementos de valor
