@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://letabilis.github.io/tumpline/papiros.html</loc>
-    <lastmod>2025-08-02T20:19:43.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://letabilis.github.io/tumpline/papiros/agile/scrum.html</loc>
-    <lastmod>2025-08-02T20:19:43.284Z</lastmod>
-  </url>
-  <url>
-    <loc>https://letabilis.github.io/tumpline/index.html</loc>
-    <lastmod>2025-08-02T20:19:43.283Z</lastmod>
+    <loc>https://letabilis.github.io/tumpline/papiros/agile/xp.html</loc>
+    <lastmod>2025-08-02T20:27:51.636Z</lastmod>
   </url>
   <url>
     <loc>https://letabilis.github.io/tumpline/papiros/index.html</loc>
-    <lastmod>2025-08-02T20:19:43.284Z</lastmod>
+    <lastmod>2025-08-02T20:27:51.636Z</lastmod>
   </url>
   <url>
-    <loc>https://letabilis.github.io/tumpline/papiros/agile/xp.html</loc>
-    <lastmod>2025-08-02T20:19:43.284Z</lastmod>
+    <loc>https://letabilis.github.io/tumpline/index.html</loc>
+    <lastmod>2025-08-02T20:27:51.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://letabilis.github.io/tumpline/papiros/agile/scrum.html</loc>
+    <lastmod>2025-08-02T20:27:51.636Z</lastmod>
   </url>
 </urlset>

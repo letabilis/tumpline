@@ -1,10 +1,66 @@
 [
   {
-    "objectID": "papiros.html",
-    "href": "papiros.html",
-    "title": "Explore alguns papiros presentes em minha Tumpline…",
+    "objectID": "papiros/agile/xp.html",
+    "href": "papiros/agile/xp.html",
+    "title": "eXtreme Programming",
     "section": "",
-    "text": "Papiros\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neXtreme Programming\n\n\n\nAgile\n\nXP\n\n\n\neXPerience, eXtreme, eXPreme…\n\n\n\n\n\nAug 2, 2025\n\n\nsdLn\n\n\n\n\n\n\n\n\n\n\n\n\nSCRUM\n\n\n\nAgile\n\nSCRUM\n\n\n\nO ciclismo não é mais sobre duas rodas apenas…\n\n\n\n\n\nAug 1, 2025\n\n\nsdLn\n\n\n\n\n\nNo matching items"
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
+  },
+  {
+    "objectID": "papiros/agile/xp.html#definição",
+    "href": "papiros/agile/xp.html#definição",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#características",
+    "href": "papiros/agile/xp.html#características",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#valores",
+    "href": "papiros/agile/xp.html#valores",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#práticas",
+    "href": "papiros/agile/xp.html#práticas",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "Ciclo de Práticas XP"
+  },
+  {
+    "objectID": "papiros/index.html",
+    "href": "papiros/index.html",
+    "title": "Papiros",
+    "section": "",
+    "text": "Explore a literatura dos papiros disponíveis."
+  },
+  {
+    "objectID": "papiros/index.html#o-que-deseja-ler-hoje",
+    "href": "papiros/index.html#o-que-deseja-ler-hoje",
+    "title": "Papiros",
+    "section": "",
+    "text": "Explore a literatura dos papiros disponíveis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bem-vindo à Tumpline!",
+    "section": "",
+    "text": "Veja os papiros disponíveis na seção Papiros."
+  },
+  {
+    "objectID": "index.html#que-tal-explorar-a-árvore-do-conhecimento",
+    "href": "index.html#que-tal-explorar-a-árvore-do-conhecimento",
+    "title": "Bem-vindo à Tumpline!",
+    "section": "",
+    "text": "Veja os papiros disponíveis na seção Papiros."
   },
   {
     "objectID": "papiros/agile/scrum.html",
@@ -61,54 +117,5 @@
     "title": "SCRUM",
     "section": "",
     "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Explore alguns papiros presentes em minha Tumpline…",
-    "section": "",
-    "text": "Bem-vindo à Tumpline!\nVeja os papiros disponíveis na seção Papiros."
-  },
-  {
-    "objectID": "papiros/index.html",
-    "href": "papiros/index.html",
-    "title": "Papiros",
-    "section": "",
-    "text": "Papiros\nExplore a literatura dos papiros disponíveis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neXtreme Programming\n\n\n\nAgile\n\nXP\n\n\n\neXPerience, eXtreme, eXPreme…\n\n\n\n\n\nAug 2, 2025\n\n\nsdLn\n\n\n\n\n\n\n\n\n\n\n\n\nSCRUM\n\n\n\nAgile\n\nSCRUM\n\n\n\nO ciclismo não é mais sobre duas rodas apenas…\n\n\n\n\n\nAug 1, 2025\n\n\nsdLn\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "papiros/agile/xp.html",
-    "href": "papiros/agile/xp.html",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
-  },
-  {
-    "objectID": "papiros/agile/xp.html#definição",
-    "href": "papiros/agile/xp.html#definição",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#características",
-    "href": "papiros/agile/xp.html#características",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#valores",
-    "href": "papiros/agile/xp.html#valores",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nTestes constantes e ciclos de feedback mantêm a qualidade do produto sob controle.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#práticas",
-    "href": "papiros/agile/xp.html#práticas",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "Ciclo de Práticas XP"
   }
 ]

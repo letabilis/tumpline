@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/papiros.html",
-    "items": [
-      "/papiros/index.html",
-      "/papiros/agile/xp.html",
-      "/papiros/agile/scrum.html"
-    ]
-  },
-  {
     "listing": "/papiros/index.html",
     "items": [
       "/papiros/agile/xp.html",
