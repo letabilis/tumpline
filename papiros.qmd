@@ -1,5 +1,5 @@
 ---
-title: "Quarto Blog"
+title: "Explore alguns papiros presentes em minha Tumpline..."
 listing:
   contents: posts
   sort: "date desc"

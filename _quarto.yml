@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Template"
+  title: "Tumpline, o guia de um mochileiro da Floresta Carmesins"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - href: blog.qmd
-        text: Blog
+      - href: papiros.qmd
+        text: Papiros
 
 
 format:
