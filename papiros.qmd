@@ -1,7 +1,7 @@
 ---
 title: "Explore alguns papiros presentes em minha Tumpline..."
 listing:
-  contents: posts
+  contents: papiros
   sort: "date desc"
   type: default
   categories: true
