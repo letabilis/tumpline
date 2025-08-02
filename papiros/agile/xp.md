@@ -3,6 +3,7 @@ title: "eXtreme Programming"
 description: "eXPerience, eXtreme, eXPreme..."
 author: "sdLn"
 date: "2025-08-02"
+categories: ["Agile", "XP"]
 ---
 
 # eXtreme Programming (XP)

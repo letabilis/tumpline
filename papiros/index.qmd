@@ -1,0 +1,12 @@
+---
+title: "Papiros"
+listing:
+  contents: .
+  sort: date desc
+  type: default
+  categories: true
+---
+
+# Papiros
+
+Explore a literatura dos papiros disponíveis.

@@ -1,3 +1,7 @@
 ---
-title: "Tumpline: As Histórias de um Mochileiro de Carmesins!"
+title: "Explore alguns papiros presentes em minha Tumpline..."
 ---
+
+# Bem-vindo à Tumpline!
+
+Veja os papiros disponíveis na seção [Papiros](papiros/index.qmd).

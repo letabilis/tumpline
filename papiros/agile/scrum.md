@@ -3,6 +3,7 @@ title: "SCRUM"
 description: "O ciclismo não é mais sobre duas rodas apenas..."
 author: "sdLn"
 date: "2025-08-01"
+categories: ["Agile", "SCRUM"]
 ---
 
 # 🚀 SCRUM
