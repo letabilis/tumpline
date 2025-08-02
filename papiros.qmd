@@ -1,8 +1,0 @@
----
-title: "Explore alguns papiros presentes em minha Tumpline..."
-listing:
-  contents: papiros
-  sort: "date desc"
-  type: default
-  categories: true
----

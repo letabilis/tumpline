@@ -3,10 +3,10 @@ title: "eXtreme Programming"
 description: "eXPerience, eXtreme, eXPreme..."
 author: "sdLn"
 date: "2025-08-02"
-categories: ["Agile", "XP"]
+categories: ["Agile"]
 ---
 
-# eXtreme Programming (XP)
+# 🎲 eXtreme Programming (XP)
 
 ## 📖 Definição
 eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.

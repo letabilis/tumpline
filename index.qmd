@@ -1,7 +1,7 @@
 ---
-title: "Explore alguns papiros presentes em minha Tumpline..."
+title: "Bem-vindo à Tumpline!"
 ---
 
-# Bem-vindo à Tumpline!
+## Que tal explorar a árvore do conhecimento?
 
 Veja os papiros disponíveis na seção [Papiros](papiros/index.qmd).
