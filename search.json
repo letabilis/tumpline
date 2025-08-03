@@ -35,18 +35,25 @@
     "text": "Ciclo de Práticas XP"
   },
   {
-    "objectID": "papiros/index.html",
-    "href": "papiros/index.html",
-    "title": "Papiros",
+    "objectID": "papiros/governanca/bpmn.html",
+    "href": "papiros/governanca/bpmn.html",
+    "title": "Business Process Modeling Notation",
     "section": "",
-    "text": "Explore a literatura dos papiros disponíveis."
+    "text": "Prover recursos e elementos para modelar os processos de negócio.\n\n\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders.\n\n\n\n\n\n\n\n\n\nPontos de Ativação Incondicional\n\n\nSão decisores de fluxo do processo e são representados por diamantes/losangos.\n\n\n\n\ndefinicao de gateways\n\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\n\ndefinicao de eventos\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\ndefinicao de atividades"
   },
   {
-    "objectID": "papiros/index.html#o-que-deseja-ler-hoje",
-    "href": "papiros/index.html#o-que-deseja-ler-hoje",
-    "title": "Papiros",
+    "objectID": "papiros/governanca/bpmn.html#objetivo",
+    "href": "papiros/governanca/bpmn.html#objetivo",
+    "title": "Business Process Modeling Notation",
     "section": "",
-    "text": "Explore a literatura dos papiros disponíveis."
+    "text": "Prover recursos e elementos para modelar os processos de negócio.\n\n\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders."
+  },
+  {
+    "objectID": "papiros/governanca/bpmn.html#elementos",
+    "href": "papiros/governanca/bpmn.html#elementos",
+    "title": "Business Process Modeling Notation",
+    "section": "",
+    "text": "Pontos de Ativação Incondicional\n\n\nSão decisores de fluxo do processo e são representados por diamantes/losangos.\n\n\n\n\ndefinicao de gateways\n\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\n\ndefinicao de eventos\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\ndefinicao de atividades"
   },
   {
     "objectID": "index.html",
@@ -61,6 +68,20 @@
     "title": "Bem-vindo à Tumpline!",
     "section": "",
     "text": "Veja os papiros disponíveis na seção Papiros."
+  },
+  {
+    "objectID": "papiros/index.html",
+    "href": "papiros/index.html",
+    "title": "Papiros",
+    "section": "",
+    "text": "Explore a literatura dos papiros disponíveis."
+  },
+  {
+    "objectID": "papiros/index.html#o-que-deseja-ler-hoje",
+    "href": "papiros/index.html#o-que-deseja-ler-hoje",
+    "title": "Papiros",
+    "section": "",
+    "text": "Explore a literatura dos papiros disponíveis."
   },
   {
     "objectID": "papiros/agile/scrum.html",

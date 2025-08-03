@@ -2,6 +2,7 @@
   {
     "listing": "/papiros/index.html",
     "items": [
+      "/papiros/governanca/bpmn.html",
       "/papiros/agile/xp.html",
       "/papiros/agile/scrum.html"
     ]
