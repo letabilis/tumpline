@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="sdLn">
-<meta name="dcterms.date" content="2025-08-02">
+<meta name="dcterms.date" content="2025-08-03">
 <meta name="description" content="A notação oficial para BPM">
 
 <title>Business Process Modeling Notation – Tumpline, o guia de um mochileiro da Floresta Carmesins</title>
@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 2, 2025</p>
+      <p class="date">August 3, 2025</p>
     </div>
   </div>
   
@@ -160,12 +160,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="objetivo" class="level2">
 <h2 class="anchored" data-anchor-id="objetivo">Objetivo</h2>
-<blockquote class="blockquote">
 <p>Prover recursos e elementos para modelar os processos de negócio.</p>
-</blockquote>
-<blockquote class="blockquote">
 <p>Permitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders.</p>
-</blockquote>
 </section>
 <section id="elementos" class="level2">
 <h2 class="anchored" data-anchor-id="elementos">Elementos</h2>
@@ -173,40 +169,64 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="objetos-de-fluxo">Objetos de Fluxo</h3>
 <section id="gateways" class="level4">
 <h4 class="anchored" data-anchor-id="gateways">Gateways</h4>
-<blockquote class="blockquote">
-<p>Pontos de Ativação Incondicional</p>
-</blockquote>
-<blockquote class="blockquote">
-<p>São decisores de fluxo do processo e são representados por diamantes/losangos.</p>
-</blockquote>
+<p>São denominados de Pontos de Ativação de caráter condicional ou incondicional.</p>
+<p>Atuam como decisores de fluxo do processo e são representados por diamantes/losangos.</p>
+<p>O <strong>Gateway Baseado em Eventos</strong> utiliza lógica semelhante ao <strong>Gateway Exclusivo</strong>: o primeiro evento a ocorrer será o que dará sequência no fluxo do processo. Em vez de um dado/informação como condição, o que determina a sequência do fluxo é a ocorrência de um evento. Um caso de uso frequente é quando os próximos passos dependem de eventos distintos: por exemplo – a chegada de uma mensagem OU uma condição que se torne verdadeira OU um determinado prazo atingido.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/bpmn/gateways.png" class="img-fluid figure-img"></p>
-<figcaption>definicao de gateways</figcaption>
+<figcaption>Figura 1 - Gateways Disponíveis</figcaption>
 </figure>
 </div>
 </section>
 <section id="eventos" class="level4">
 <h4 class="anchored" data-anchor-id="eventos">Eventos</h4>
-<blockquote class="blockquote">
 <p>Representam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.</p>
-</blockquote>
+<p>Existem diversas forma de iniciar uma modelagem BPMN: - evento de ínicio - o recebimento de uma mensagem - uma temporal - regra de negócio - erro</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/bpmn/eventos.png" class="img-fluid figure-img"></p>
-<figcaption>definicao de eventos</figcaption>
+<figcaption>Figura 2 - Eventos Disponíveis</figcaption>
 </figure>
 </div>
 </section>
 <section id="atividades" class="level4">
 <h4 class="anchored" data-anchor-id="atividades">Atividades</h4>
-<blockquote class="blockquote">
 <p>Representam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.</p>
-</blockquote>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 9%">
+<col style="width: 56%">
+<col style="width: 19%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tipos/Características</th>
+<th>Execução</th>
+<th>Comportamento</th>
+<th>Ícones</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Automatizadas</td>
+<td>Softwares</td>
+<td>Consistentes, rápidas, menos sujeitas a enganos humanos.</td>
+<td>Engrenagens/Raios</td>
+</tr>
+<tr class="even">
+<td>Manuais</td>
+<td>Pessoas</td>
+<td>Potenciais atrasos, variabilidade, enganos humanos.</td>
+<td>Mãos/Nenhum</td>
+</tr>
+</tbody>
+</table>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/bpmn/atividades.png" class="img-fluid figure-img"></p>
-<figcaption>definicao de atividades</figcaption>
+<figcaption>Figura 3 - Atividades Disponíveis</figcaption>
 </figure>
 </div>
 
