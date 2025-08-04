@@ -32,15 +32,14 @@ Um caso de uso frequente é quando os próximos passos dependem de eventos disti
 #### Eventos
 Representam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.
 
-Existem diversas forma de iniciar uma modelagem BPMN:
-    - evento de ínicio
-    - o recebimento de uma mensagem
-    - uma temporal
-    - regra de negócio
-    - erro
+![Figura 2 - Tipos de Eventos Disponíveis](assets/bpmn/eventos.png)
 
+##### Eventos Iniciais
+![Figura 3 - Exemplos de Eventos Iniciais](assets/bpmn/eventosiniciais.png)
 
-![Figura 2 - Eventos Disponíveis](assets/bpmn/eventos.png)
+##### Eventos Intermediários
+![Figura 4 - Exemplos de Eventos Intermediários](assets/bpmn/eventosintermediarios.png)
+
 
 #### Atividades
 Representam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.
@@ -52,7 +51,7 @@ Representam um trabalho que será executado dentro do processo, podem ser dividi
 
 
 
-![Figura 3 - Atividades Disponíveis](assets/bpmn/atividades.png)
+![Figura 4 - Atividades Disponíveis](assets/bpmn/atividades.png)
 
 
 
