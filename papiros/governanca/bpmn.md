@@ -51,7 +51,7 @@ Representam um trabalho que será executado dentro do processo, podem ser dividi
 
 
 
-![Figura 4 - Atividades Disponíveis](assets/bpmn/atividades.png)
+![Figura 5 - Atividades Disponíveis](assets/bpmn/atividades.png)
 
 
 
