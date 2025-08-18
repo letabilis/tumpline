@@ -20,6 +20,7 @@ format:
     mainfont: "Roboto"
     code-copy: true
     code-overflow: wrap
+    mermaid: true
 
 
 execute:
