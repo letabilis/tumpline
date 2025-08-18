@@ -8,6 +8,8 @@ categories: ["Processos de desenvolvimento"]
 
 # 📘 CMMI
 
+![Anexo 1 - Logomarca oficial do CMMI](assets/NORMAS-borda-cmmi-texto.png "Logomarca CMMI")
+
 > Modelo de maturidade que orienta organizações na melhoria contínua de seus processos, com base em práticas mensuráveis.
 
 ---
