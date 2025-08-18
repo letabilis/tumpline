@@ -29,7 +29,7 @@ categories: ["Processos de desenvolvimento"]
 
 ## 🧭 Views (CMMI-DEV)
 
-```mermaid
+```{mermaid}
 graph TD
   A[CMMI-DEV]
   
