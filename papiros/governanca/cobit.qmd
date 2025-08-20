@@ -1,0 +1,76 @@
+---
+title: "COBIT 2019"
+description: "Estrutura de GCIT desenvolvida pela ISACA
+author: "sdLn"
+date: "2025-08-19"
+categories: ["Governança de TI"]
+---
+
+
+# COBIT 2019
+
+## GCIT
+> Governança Corporativa de Tecnologia da Informação
+
+## Contexto da GCIT
+!["Figura 1 - Contexto da GCIT"](assets/cobit/contexto-gcit.png)
+
+
+## Benefícios da GCIT
+!["Figura 2 - Benefícios da GCIT"](assets/cobit/beneficios-gcit.png)
+
+## Princípios de Governança: Sistema x Framework
+
+!["Figura 3 - Princípios Governança: Sistema x Framework"](assets/cobit/principios-governanca-sistema-x-framework.png)
+
+
+## Componentes do Sistema de Governança
+
+!["Figura 4 - Componentes do Sistema de Governança"](assets/cobit/componentes-sistema-governanca.png)
+
+
+## Domínios
+!["Figura 5 - Domínios"](assets/cobit/dominios.png)
+
+### Nomenclatura dos processos:
+* ADM: 
+    - Palavra chave: 
+        - "Garantir"
+    - Ideia: "Benefícios do GCIT"
+    
+* CAI:
+    - Palavras-chave: 
+        - "Mudança"
+        - "TI"
+    - Ideia: "Mão na massa":
+    Exemplo:
+        - Definição de Requisitos
+        - Gerenciar ativos
+    - Disciplinas de faculdade:
+    Exemplo: 
+        - GC, GP
+
+* MEA:
+    - Ideia: "Leis, regulamentos"
+    - Palavras-chave: 
+        - "Conformidade" 
+        - "Controle"
+        - "Ateste"
+
+* ESS:
+    - Auto-explicativo
+    - Palavras chave:
+        - "Serviços"
+        - "Problemas"
+        - "Operações"
+        - "Continuidade"
+
+
+## Design Factors
+
+!["Figura 6 - Fatores de Desenho"](assets/cobit/fatores-desenho.png)
+
+## Áreas de foco:
+> Descreve um certo tópico de governança, domínio ou problema que pode ser endereçado por uma coleção de objetivos de governança e de gestão e seus componentes.
+
+!["Figura 7 - Exemplos de Áreas de foco"](assets/cobit/exemplos-area-defoco.png)
