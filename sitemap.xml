@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://letabilis.github.io/tumpline/index.html</loc>
-    <lastmod>2025-08-18T19:21:13.772Z</lastmod>
+    <lastmod>2025-08-23T22:16:21.952Z</lastmod>
   </url>
   <url>
     <loc>https://letabilis.github.io/tumpline/papiros/index.html</loc>
-    <lastmod>2025-08-18T19:21:13.775Z</lastmod>
+    <lastmod>2025-08-23T22:16:21.956Z</lastmod>
   </url>
   <url>
-    <loc>https://letabilis.github.io/tumpline/papiros/agile/scrum.html</loc>
-    <lastmod>2025-08-18T19:21:13.774Z</lastmod>
+    <loc>https://letabilis.github.io/tumpline/papiros/governanca/cobit.html</loc>
+    <lastmod>2025-08-23T22:16:21.956Z</lastmod>
   </url>
   <url>
     <loc>https://letabilis.github.io/tumpline/papiros/agile/xp.html</loc>
-    <lastmod>2025-08-18T19:21:13.774Z</lastmod>
+    <lastmod>2025-08-23T22:16:21.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://letabilis.github.io/tumpline/papiros/agile/scrum.html</loc>
+    <lastmod>2025-08-23T22:16:21.953Z</lastmod>
   </url>
   <url>
     <loc>https://letabilis.github.io/tumpline/papiros/governanca/bpmn.html</loc>
-    <lastmod>2025-08-18T19:21:13.775Z</lastmod>
+    <lastmod>2025-08-23T22:16:21.956Z</lastmod>
   </url>
   <url>
     <loc>https://letabilis.github.io/tumpline/papiros/pds/cmmi.html</loc>
-    <lastmod>2025-08-18T19:21:13.776Z</lastmod>
+    <lastmod>2025-08-23T22:16:21.957Z</lastmod>
   </url>
 </urlset>

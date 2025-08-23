@@ -28,6 +28,104 @@
     "text": "Explore a literatura dos papiros disponíveis."
   },
   {
+    "objectID": "papiros/governanca/cobit.html",
+    "href": "papiros/governanca/cobit.html",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "Governança Corporativa de Tecnologia da Informação\n\n\n\n\n\n\n\n“Figura 1 - Contexto da GCIT”\n\n\n\n\n\n\n\n\n“Figura 2 - Benefícios da GCIT”\n\n\n\n\n\n\n\n\n“Figura 3 - Princípios Governança: Sistema x Framework”\n\n\n\n\n\n\n\n\n“Figura 4 - Componentes do Sistema de Governança”\n\n\n\n\n\n\n\n\n“Figura 5 - Domínios”\n\n\n\n\n\nADM:\n\nPalavra chave:\n\n“Garantir”\n\nIdeia: “Benefícios do GCIT”\n\nCAI:\n\nPalavras-chave:\n\n“Mudança”\n“TI”\n\nIdeia: “Mão na massa”: Exemplo:\n\nDefinição de Requisitos\nGerenciar ativos\n\nDisciplinas de faculdade: Exemplo:\n\nGC, GP\n\n\nMEA:\n\nIdeia: “Leis, regulamentos”\nPalavras-chave:\n\n“Conformidade”\n“Controle”\n“Ateste”\n\n\nESS:\n\nAuto-explicativo\nPalavras chave:\n\n“Serviços”\n“Problemas”\n“Operações”\n“Continuidade”\n\n\n\n\n\n\n\n\n\n\n“Figura 6 - Fatores de Desenho”\n\n\n\n\n\n\nDescreve um certo tópico de governança, domínio ou problema que pode ser endereçado por uma coleção de objetivos de governança e de gestão e seus componentes.\n\n\n\n\n“Figura 7 - Exemplos de Áreas de foco”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#gcit",
+    "href": "papiros/governanca/cobit.html#gcit",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "Governança Corporativa de Tecnologia da Informação"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#contexto-da-gcit",
+    "href": "papiros/governanca/cobit.html#contexto-da-gcit",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 1 - Contexto da GCIT”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#benefícios-da-gcit",
+    "href": "papiros/governanca/cobit.html#benefícios-da-gcit",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 2 - Benefícios da GCIT”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#princípios-de-governança-sistema-x-framework",
+    "href": "papiros/governanca/cobit.html#princípios-de-governança-sistema-x-framework",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 3 - Princípios Governança: Sistema x Framework”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#componentes-do-sistema-de-governança",
+    "href": "papiros/governanca/cobit.html#componentes-do-sistema-de-governança",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 4 - Componentes do Sistema de Governança”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#domínios",
+    "href": "papiros/governanca/cobit.html#domínios",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 5 - Domínios”\n\n\n\n\n\nADM:\n\nPalavra chave:\n\n“Garantir”\n\nIdeia: “Benefícios do GCIT”\n\nCAI:\n\nPalavras-chave:\n\n“Mudança”\n“TI”\n\nIdeia: “Mão na massa”: Exemplo:\n\nDefinição de Requisitos\nGerenciar ativos\n\nDisciplinas de faculdade: Exemplo:\n\nGC, GP\n\n\nMEA:\n\nIdeia: “Leis, regulamentos”\nPalavras-chave:\n\n“Conformidade”\n“Controle”\n“Ateste”\n\n\nESS:\n\nAuto-explicativo\nPalavras chave:\n\n“Serviços”\n“Problemas”\n“Operações”\n“Continuidade”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#design-factors",
+    "href": "papiros/governanca/cobit.html#design-factors",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "“Figura 6 - Fatores de Desenho”"
+  },
+  {
+    "objectID": "papiros/governanca/cobit.html#áreas-de-foco",
+    "href": "papiros/governanca/cobit.html#áreas-de-foco",
+    "title": "COBIT 2019",
+    "section": "",
+    "text": "Descreve um certo tópico de governança, domínio ou problema que pode ser endereçado por uma coleção de objetivos de governança e de gestão e seus componentes.\n\n\n\n\n“Figura 7 - Exemplos de Áreas de foco”"
+  },
+  {
+    "objectID": "papiros/agile/xp.html",
+    "href": "papiros/agile/xp.html",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
+  },
+  {
+    "objectID": "papiros/agile/xp.html#definição",
+    "href": "papiros/agile/xp.html#definição",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#características",
+    "href": "papiros/agile/xp.html#características",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#valores",
+    "href": "papiros/agile/xp.html#valores",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#práticas",
+    "href": "papiros/agile/xp.html#práticas",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "Ciclo de Práticas XP"
+  },
+  {
     "objectID": "papiros/agile/scrum.html",
     "href": "papiros/agile/scrum.html",
     "title": "SCRUM",
@@ -82,41 +180,6 @@
     "title": "SCRUM",
     "section": "",
     "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
-  },
-  {
-    "objectID": "papiros/agile/xp.html",
-    "href": "papiros/agile/xp.html",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
-  },
-  {
-    "objectID": "papiros/agile/xp.html#definição",
-    "href": "papiros/agile/xp.html#definição",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#características",
-    "href": "papiros/agile/xp.html#características",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#valores",
-    "href": "papiros/agile/xp.html#valores",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
-  },
-  {
-    "objectID": "papiros/agile/xp.html#práticas",
-    "href": "papiros/agile/xp.html#práticas",
-    "title": "eXtreme Programming",
-    "section": "",
-    "text": "Ciclo de Práticas XP"
   },
   {
     "objectID": "papiros/governanca/bpmn.html",

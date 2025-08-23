@@ -2,6 +2,7 @@
   {
     "listing": "/papiros/index.html",
     "items": [
+      "/papiros/governanca/cobit.html",
       "/papiros/pds/cmmi.html",
       "/papiros/governanca/bpmn.html",
       "/papiros/agile/xp.html",
