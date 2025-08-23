@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="sdLn">
+<meta name="dcterms.date" content="2025-08-21">
+<meta name="description" content="DW, ETL, OLAP, DL">
 
-<title>Papiros – Tumpline, o guia de um mochileiro da Floresta Carmesins</title>
+<title>Business Inteligence – Tumpline, o guia de um mochileiro da Floresta Carmesins</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7530c408590d20eba92ebedbb433c75c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5f12001b6ef563dcfc15e6634307e6fd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7530c408590d20eba92ebedbb433c75c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-5f12001b6ef563dcfc15e6634307e6fd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,76 +70,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Tumpline, o guia de um mochileiro da Floresta Carmesins</span>
     </a>
   </div>
@@ -149,11 +92,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../papiros.qmd"> 
+    <a class="nav-link" href="../../papiros.qmd"> 
 <span class="menu-text">Papiros</span></a>
   </li>  
 </ul>
@@ -167,22 +110,40 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QWdpbGU=">Agile <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmFuY28lMjBkZSUyMERhZG9z">Banco de Dados <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R292ZXJuYW4lQzMlQTdhJTIwZGUlMjBUSQ==">Governança de TI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UHJvY2Vzc29zJTIwZGUlMjBkZXNlbnZvbHZpbWVudG8=">Processos de desenvolvimento <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Papiros</h1>
-</div>
+<h1 class="title">Business Inteligence</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Banco de Dados</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    DW, ETL, OLAP, DL
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>sdLn </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">August 21, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -192,199 +153,152 @@ window.Quarto = {
 </header>
 
 
-<section id="o-que-deseja-ler-hoje" class="level2">
-<h2 class="anchored" data-anchor-id="o-que-deseja-ler-hoje">O que deseja ler hoje?</h2>
-<p>Explore a literatura dos papiros disponíveis.</p>
-
+<section id="business-inteligence" class="level1">
+<h1>Business Inteligence</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/business-inteligence.png" class="img-fluid figure-img"></p>
+<figcaption>“Imagem 1 - Ícone de Business Inteligence”</figcaption>
+</figure>
+</div>
+<section id="panorama" class="level2">
+<h2 class="anchored" data-anchor-id="panorama">Panorama</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/bi-visao-geral.webp" class="img-fluid figure-img"></p>
+<figcaption>“Imagem 2 - Panorama”</figcaption>
+</figure>
+</div>
+</section>
+<section id="data-warehouse" class="level2">
+<h2 class="anchored" data-anchor-id="data-warehouse">Data Warehouse</h2>
+<ul>
+<li>Conjunto de dados produzidos para apoiar a <strong>tomada de decisão</strong> de uma organização.</li>
+<li><strong>Repositório</strong> de dados <strong>atuais</strong> e <strong>historicos</strong> de potencial interesse para gestores de toda a organização.</li>
+</ul>
+<section id="características" class="level3">
+<h3 class="anchored" data-anchor-id="características">Características</h3>
+<ul>
+<li>Orientado a <strong>assuntos</strong>:
+<ul>
+<li>Sumarização de dados</li>
+</ul></li>
+<li>Integrados:
+<ul>
+<li>Relacionado a <strong>diversas fontes de dados</strong>: sistemas transacionais, bancos de dados relacionais, documentos…</li>
+</ul></li>
+<li>Variante no <strong>tempo</strong>:
+<ul>
+<li><em>Storytelling</em> provê insights valiosos</li>
+</ul></li>
+<li>Não voláteis:
+<ul>
+<li>Dados podem ser <strong>incluidos</strong>, mas <strong>não modificáveis</strong>.</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="etl---extract-transform-load" class="level2">
+<h2 class="anchored" data-anchor-id="etl---extract-transform-load">ETL - Extract, Transform, Load</h2>
+<p><img src="assets/etl-process.gif" class="img-fluid" alt="“Imagem 3 - Processo ETL”"> * <em>transformar baseado nas regras de negócio</em> * <em>carga de dados em Data Warehouse ou Data Mart</em></p>
+</section>
+<section id="data-mart" class="level2">
+<h2 class="anchored" data-anchor-id="data-mart">Data Mart</h2>
+<ul>
+<li>Generalização do <em>Data Warehouse</em> com escopo limitado a um <strong>departamento</strong>.</li>
+</ul>
+</section>
+<section id="data-lake" class="level2">
+<h2 class="anchored" data-anchor-id="data-lake">Data Lake</h2>
+<ul>
+<li>Repositório de <strong>dados brutos</strong>:
+<ul>
+<li>Não filtrados</li>
+<li>Não formatados</li>
+<li>Não estruturados</li>
+</ul></li>
+</ul>
+</section>
+<section id="modelo-dimensional" class="level2">
+<h2 class="anchored" data-anchor-id="modelo-dimensional">Modelo Dimensional</h2>
+<section id="star-schema" class="level3">
+<h3 class="anchored" data-anchor-id="star-schema">Star Schema</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/star-schema.jpg" class="img-fluid figure-img"></p>
+<figcaption>“Imagem 4 - Modelo Estrela”</figcaption>
+</figure>
+</div>
+<ul>
+<li>tabelas dimensionais <strong>não normalizadas</strong> implicam:
+<ul>
+<li>maior espaço em disco (redundância de dados)</li>
+<li>unicidade (não há subdimensões)</li>
+<li>ligam-se apenas a Tabela de Fatos (não entre si)</li>
+</ul></li>
+</ul>
+</section>
+<section id="snowflake" class="level3">
+<h3 class="anchored" data-anchor-id="snowflake">Snowflake</h3>
+<p><img src="assets/snowflake-schema.png" class="img-fluid" alt="“Imagem 5 - Modelo Floco de Neve”"> * tabelas dimensionais <strong>normalizadas</strong>: - maior complexidade de consultas (JOINS) * subdimensões não se relacionam diretamente com a <em>fact table</em> * dimensões “adjacentes” não se relacionam</p>
+</section>
+</section>
+<section id="olap---online-analytics-processing" class="level2">
+<h2 class="anchored" data-anchor-id="olap---online-analytics-processing">OLAP - Online Analytics Processing</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/olap_cube.png" class="img-fluid figure-img"></p>
+<figcaption>“Imagem 6 - Cubo OLAP”</figcaption>
+</figure>
+</div>
+<ul>
+<li>Permite a análise e manipulação de um <strong>grande volume</strong> de dados através de <strong>diferentes perspectivas</strong>.</li>
+</ul>
+<section id="operações" class="level3">
+<h3 class="anchored" data-anchor-id="operações">Operações</h3>
+<ul>
+<li>Roll-Up:
+<ul>
+<li>Agregar</li>
+<li>Maior granularidade</li>
+</ul></li>
+<li>Drill-Down:
+<ul>
+<li>Desmembrar</li>
+<li>Menor granularidade</li>
+</ul></li>
+<li>Drill-Across:
+<ul>
+<li>Pular um nível intermediario</li>
+</ul></li>
+<li>Drill-Through:
+<ul>
+<li>Mudar a dimensão de uma informação</li>
+</ul></li>
+<li>Pivot:
+<ul>
+<li>Rotacionar cubo</li>
+<li>Transpor uma matriz</li>
+</ul></li>
+<li>Slice:
+<ul>
+<li>Selecionar uma dimensão</li>
+<li>Filtrar</li>
+</ul></li>
+<li>Dice:
+<ul>
+<li>Selecionar duas ou mais dimensões</li>
+<li>Selecionar um cubo</li>
+<li>Filtrar um Slice</li>
+</ul></li>
+</ul>
 
 
 </section>
+</section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QmFuY28lMjBkZSUyMERhZG9z" data-listing-date-sort="1755734400000" data-listing-file-modified-sort="1755987579941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
-<div class="thumbnail"><a href="../papiros/bd/bi.html" class="no-external">
-
-<p class="card-img-top"><img src="bd/assets/business-inteligence.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/bd/bi.html" class="no-external">Business Inteligence</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmFuY28lMjBkZSUyMERhZG9z'); return false;">Banco de Dados</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/bd/bi.html" class="no-external">
-<p>DW, ETL, OLAP, DL</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/bd/bi.html" class="no-external">
-<div class="listing-date">
-Aug 21, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="R292ZXJuYW4lQzMlQTdhJTIwZGUlMjBUSQ==" data-listing-date-sort="1755561600000" data-listing-file-modified-sort="1755987579944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="299">
-<div class="thumbnail"><a href="../papiros/governanca/cobit.html" class="no-external">
-
-<p class="card-img-top"><img src="governanca/assets/cobit/contexto-gcit.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/governanca/cobit.html" class="no-external">COBIT 2019</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R292ZXJuYW4lQzMlQTdhJTIwZGUlMjBUSQ=='); return false;">Governança de TI</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/governanca/cobit.html" class="no-external">
-<p>Estrutura de GCIT desenvolvida pela ISACA</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/governanca/cobit.html" class="no-external">
-<div class="listing-date">
-Aug 19, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="UHJvY2Vzc29zJTIwZGUlMjBkZXNlbnZvbHZpbWVudG8=" data-listing-date-sort="1755475200000" data-listing-file-modified-sort="1755987579944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="489">
-<div class="thumbnail"><a href="../papiros/pds/cmmi.html" class="no-external">
-
-<p class="card-img-top"><img src="pds/assets/NORMAS-borda-cmmi-texto.png" title="Logomarca CMMI" class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/pds/cmmi.html" class="no-external">CMMI - Capability Maturity Model Integration</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvY2Vzc29zJTIwZGUlMjBkZXNlbnZvbHZpbWVudG8='); return false;">Processos de desenvolvimento</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/pds/cmmi.html" class="no-external">
-<p>Versão 2018/2.0</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/pds/cmmi.html" class="no-external">
-<div class="listing-date">
-Aug 18, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="R292ZXJuYW4lQzMlQTdhJTIwZGUlMjBUSQ==" data-listing-date-sort="1754179200000" data-listing-file-modified-sort="1755987579944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
-<div class="thumbnail"><a href="../papiros/governanca/bpmn.html" class="no-external">
-
-<p class="card-img-top"><img src="governanca/assets/bpmn/gateways.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/governanca/bpmn.html" class="no-external">Business Process Modeling Notation</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R292ZXJuYW4lQzMlQTdhJTIwZGUlMjBUSQ=='); return false;">Governança de TI</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/governanca/bpmn.html" class="no-external">
-<p>A notação oficial para BPM</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/governanca/bpmn.html" class="no-external">
-<div class="listing-date">
-Aug 3, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="QWdpbGU=" data-listing-date-sort="1754092800000" data-listing-file-modified-sort="1755987579938" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
-<div class="thumbnail"><a href="../papiros/agile/xp.html" class="no-external">
-
-<p class="card-img-top"><img src="agile/assets/praticasxp.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/agile/xp.html" class="no-external">eXtreme Programming</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QWdpbGU='); return false;">Agile</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/agile/xp.html" class="no-external">
-<p>eXPerience, eXtreme, eXPreme…</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/agile/xp.html" class="no-external">
-<div class="listing-date">
-Aug 2, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="QWdpbGU=" data-listing-date-sort="1754006400000" data-listing-file-modified-sort="1755987579938" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="432">
-<div class="thumbnail"><a href="../papiros/agile/scrum.html" class="no-external">
-
-<p class="card-img-top"><img src="agile/assets/eventosscrum.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../papiros/agile/scrum.html" class="no-external">SCRUM</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QWdpbGU='); return false;">Agile</div>
-
-</div>
-<div class="delink listing-description"><a href="../papiros/agile/scrum.html" class="no-external">
-<p>O ciclismo não é mais sobre duas rodas apenas…</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../papiros/agile/scrum.html" class="no-external">
-<div class="listing-date">
-Aug 1, 2025
-</div>
-<div class="listing-author">
-sdLn
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -28,6 +28,118 @@
     "text": "Explore a literatura dos papiros disponíveis."
   },
   {
+    "objectID": "papiros/governanca/bpmn.html",
+    "href": "papiros/governanca/bpmn.html",
+    "title": "Business Process Modeling Notation",
+    "section": "",
+    "text": "Prover recursos e elementos para modelar os processos de negócio.\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders.\n\n\n\n\n\n\n\nSão denominados de Pontos de Ativação de caráter condicional ou incondicional.\nAtuam como decisores de fluxo do processo e são representados por diamantes/losangos.\nO Gateway Baseado em Eventos utiliza lógica semelhante ao Gateway Exclusivo: o primeiro evento a ocorrer será o que dará sequência no fluxo do processo. Em vez de um dado/informação como condição, o que determina a sequência do fluxo é a ocorrência de um evento. Um caso de uso frequente é quando os próximos passos dependem de eventos distintos: por exemplo – a chegada de uma mensagem OU uma condição que se torne verdadeira OU um determinado prazo atingido.\n\n\n\nFigura 1 - Gateways Disponíveis\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\nFigura 2 - Tipos de Eventos Disponíveis\n\n\n\n\n\n\n\nFigura 3 - Exemplos de Eventos Iniciais\n\n\n\n\n\n\n\n\nFigura 4 - Exemplos de Eventos Intermediários\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\n\n\n\n\n\nTipos/Características\nExecução\nComportamento\nÍcones\n\n\n\n\nAutomatizadas\nSoftwares\nConsistentes, rápidas, menos sujeitas a enganos humanos.\nEngrenagens/Raios\n\n\nManuais\nPessoas\nPotenciais atrasos, variabilidade, enganos humanos.\nMãos/Nenhum\n\n\n\n\n\n\nFigura 5 - Atividades Disponíveis"
+  },
+  {
+    "objectID": "papiros/governanca/bpmn.html#objetivo",
+    "href": "papiros/governanca/bpmn.html#objetivo",
+    "title": "Business Process Modeling Notation",
+    "section": "",
+    "text": "Prover recursos e elementos para modelar os processos de negócio.\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders."
+  },
+  {
+    "objectID": "papiros/governanca/bpmn.html#elementos",
+    "href": "papiros/governanca/bpmn.html#elementos",
+    "title": "Business Process Modeling Notation",
+    "section": "",
+    "text": "São denominados de Pontos de Ativação de caráter condicional ou incondicional.\nAtuam como decisores de fluxo do processo e são representados por diamantes/losangos.\nO Gateway Baseado em Eventos utiliza lógica semelhante ao Gateway Exclusivo: o primeiro evento a ocorrer será o que dará sequência no fluxo do processo. Em vez de um dado/informação como condição, o que determina a sequência do fluxo é a ocorrência de um evento. Um caso de uso frequente é quando os próximos passos dependem de eventos distintos: por exemplo – a chegada de uma mensagem OU uma condição que se torne verdadeira OU um determinado prazo atingido.\n\n\n\nFigura 1 - Gateways Disponíveis\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\nFigura 2 - Tipos de Eventos Disponíveis\n\n\n\n\n\n\n\nFigura 3 - Exemplos de Eventos Iniciais\n\n\n\n\n\n\n\n\nFigura 4 - Exemplos de Eventos Intermediários\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\n\n\n\n\n\nTipos/Características\nExecução\nComportamento\nÍcones\n\n\n\n\nAutomatizadas\nSoftwares\nConsistentes, rápidas, menos sujeitas a enganos humanos.\nEngrenagens/Raios\n\n\nManuais\nPessoas\nPotenciais atrasos, variabilidade, enganos humanos.\nMãos/Nenhum\n\n\n\n\n\n\nFigura 5 - Atividades Disponíveis"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html",
+    "href": "papiros/agile/scrum.html",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo.\n\n\n\n\n\nBaseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)\n\n\n\n\n\nIndicado para pequenos times auto-organizáveis: - Até 10 pessoas\n\n\n\n\n\n\n\n\n\n\n\n\n#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças\n\n\n\n\n\n\n\n\nProduct Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores\n\n\n\n\n\n\n\n\nresumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\nProcesso de quebra de épicos em histórias ready (menores, palpáveis em relação a uma sprint) que ocorre antes da Sprint Planning com a participação de Devs e Product Owner. ***\n\n\n\n\n\n\n\n\nGerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#definição",
+    "href": "papiros/agile/scrum.html#definição",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo."
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#características",
+    "href": "papiros/agile/scrum.html#características",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Baseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#quando-usar",
+    "href": "papiros/agile/scrum.html#quando-usar",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Indicado para pequenos times auto-organizáveis: - Até 10 pessoas"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#pilares",
+    "href": "papiros/agile/scrum.html#pilares",
+    "title": "SCRUM",
+    "section": "",
+    "text": "#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#artefatos",
+    "href": "papiros/agile/scrum.html#artefatos",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Product Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#eventos",
+    "href": "papiros/agile/scrum.html#eventos",
+    "title": "SCRUM",
+    "section": "",
+    "text": "resumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\nProcesso de quebra de épicos em histórias ready (menores, palpáveis em relação a uma sprint) que ocorre antes da Sprint Planning com a participação de Devs e Product Owner. ***"
+  },
+  {
+    "objectID": "papiros/agile/scrum.html#time-scrum",
+    "href": "papiros/agile/scrum.html#time-scrum",
+    "title": "SCRUM",
+    "section": "",
+    "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+  },
+  {
+    "objectID": "papiros/agile/xp.html",
+    "href": "papiros/agile/xp.html",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
+  },
+  {
+    "objectID": "papiros/agile/xp.html#definição",
+    "href": "papiros/agile/xp.html#definição",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#características",
+    "href": "papiros/agile/xp.html#características",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#valores",
+    "href": "papiros/agile/xp.html#valores",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
+  },
+  {
+    "objectID": "papiros/agile/xp.html#práticas",
+    "href": "papiros/agile/xp.html#práticas",
+    "title": "eXtreme Programming",
+    "section": "",
+    "text": "Ciclo de Práticas XP"
+  },
+  {
     "objectID": "papiros/governanca/cobit.html",
     "href": "papiros/governanca/cobit.html",
     "title": "COBIT 2019",
@@ -91,116 +203,60 @@
     "text": "Descreve um certo tópico de governança, domínio ou problema que pode ser endereçado por uma coleção de objetivos de governança e de gestão e seus componentes.\n\n\n\n\n“Figura 7 - Exemplos de Áreas de foco”"
   },
   {
-    "objectID": "papiros/agile/xp.html",
-    "href": "papiros/agile/xp.html",
-    "title": "eXtreme Programming",
+    "objectID": "papiros/bd/bi.html",
+    "href": "papiros/bd/bi.html",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo.\n\n\n\n\nCI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa.\n\n\n\n\n\n\n\n\n\nCiclo de Práticas XP"
+    "text": "“Imagem 1 - Ícone de Business Inteligence”\n\n\n\n\n\n\n\n“Imagem 2 - Panorama”\n\n\n\n\n\n\nConjunto de dados produzidos para apoiar a tomada de decisão de uma organização.\nRepositório de dados atuais e historicos de potencial interesse para gestores de toda a organização.\n\n\n\n\nOrientado a assuntos:\n\nSumarização de dados\n\nIntegrados:\n\nRelacionado a diversas fontes de dados: sistemas transacionais, bancos de dados relacionais, documentos…\n\nVariante no tempo:\n\nStorytelling provê insights valiosos\n\nNão voláteis:\n\nDados podem ser incluidos, mas não modificáveis.\n\n\n\n\n\n\n * transformar baseado nas regras de negócio * carga de dados em Data Warehouse ou Data Mart\n\n\n\n\nGeneralização do Data Warehouse com escopo limitado a um departamento.\n\n\n\n\n\nRepositório de dados brutos:\n\nNão filtrados\nNão formatados\nNão estruturados\n\n\n\n\n\n\n\n\n\n\n“Imagem 4 - Modelo Estrela”\n\n\n\ntabelas dimensionais não normalizadas implicam:\n\nmaior espaço em disco (redundância de dados)\nunicidade (não há subdimensões)\nligam-se apenas a Tabela de Fatos (não entre si)\n\n\n\n\n\n * tabelas dimensionais normalizadas: - maior complexidade de consultas (JOINS) * subdimensões não se relacionam diretamente com a fact table * dimensões “adjacentes” não se relacionam\n\n\n\n\n\n\n\n“Imagem 6 - Cubo OLAP”\n\n\n\nPermite a análise e manipulação de um grande volume de dados através de diferentes perspectivas.\n\n\n\n\nRoll-Up:\n\nAgregar\nMaior granularidade\n\nDrill-Down:\n\nDesmembrar\nMenor granularidade\n\nDrill-Across:\n\nPular um nível intermediario\n\nDrill-Through:\n\nMudar a dimensão de uma informação\n\nPivot:\n\nRotacionar cubo\nTranspor uma matriz\n\nSlice:\n\nSelecionar uma dimensão\nFiltrar\n\nDice:\n\nSelecionar duas ou mais dimensões\nSelecionar um cubo\nFiltrar um Slice"
   },
   {
-    "objectID": "papiros/agile/xp.html#definição",
-    "href": "papiros/agile/xp.html#definição",
-    "title": "eXtreme Programming",
+    "objectID": "papiros/bd/bi.html#panorama",
+    "href": "papiros/bd/bi.html#panorama",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "eXtreme Programming (XP) é uma metodologia ágil focada na excelência técnica e na colaboração próxima entre os envolvidos no projeto. Seu objetivo é entregar software de alta qualidade por meio de práticas iterativas, feedback constante e melhoria contínua do processo."
+    "text": "“Imagem 2 - Panorama”"
   },
   {
-    "objectID": "papiros/agile/xp.html#características",
-    "href": "papiros/agile/xp.html#características",
-    "title": "eXtreme Programming",
+    "objectID": "papiros/bd/bi.html#data-warehouse",
+    "href": "papiros/bd/bi.html#data-warehouse",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "CI (Continuous Integration) – Integração frequente do código com builds e testes automatizados, mantendo o sistema sempre funcional e evitando conflitos.\n\nCD (Continuous Delivery) – Entregas frequentes em releases curtas, garantindo valor rápido ao cliente.\n\nCR (Continuous Refactoring) – Refatoração contínua para manter o código limpo, sustentável e padronizado.\n\nTDD (Test-Driven Development) – Desenvolvimento orientado a testes para assegurar qualidade em todas as etapas."
+    "text": "Conjunto de dados produzidos para apoiar a tomada de decisão de uma organização.\nRepositório de dados atuais e historicos de potencial interesse para gestores de toda a organização.\n\n\n\n\nOrientado a assuntos:\n\nSumarização de dados\n\nIntegrados:\n\nRelacionado a diversas fontes de dados: sistemas transacionais, bancos de dados relacionais, documentos…\n\nVariante no tempo:\n\nStorytelling provê insights valiosos\n\nNão voláteis:\n\nDados podem ser incluidos, mas não modificáveis."
   },
   {
-    "objectID": "papiros/agile/xp.html#valores",
-    "href": "papiros/agile/xp.html#valores",
-    "title": "eXtreme Programming",
+    "objectID": "papiros/bd/bi.html#etl---extract-transform-load",
+    "href": "papiros/bd/bi.html#etl---extract-transform-load",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "#\nValor\nDescrição\n\n\n\n\n1\nComunicação\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n2\nSimplicidade\nFoco no que deve ser realizado, não desperdiçando esforços fazendo algo desnecessário ou que não agregue valor ao produto.\n\n\n3\nFeedback\nPermite ao cliente conduzir diariamente o desenvolvimento e garantir que a equipe direcione suas atenções àquilo que irá gerar mais valor.\n\n\n4\nCoragem\nCada membro da equipe está focado em fazer as melhores escolhas para o projeto, implementar as ideias inovadoras, e apresentar com transparência as estimativas e o progresso do projeto.\n\n\n5\nRespeito\nCada membro da equipe é importante e valioso para o projeto, e por isso os desenvolvedores respeitam a experiência dos clientes e vice-versa."
+    "text": "* transformar baseado nas regras de negócio * carga de dados em Data Warehouse ou Data Mart"
   },
   {
-    "objectID": "papiros/agile/xp.html#práticas",
-    "href": "papiros/agile/xp.html#práticas",
-    "title": "eXtreme Programming",
+    "objectID": "papiros/bd/bi.html#data-mart",
+    "href": "papiros/bd/bi.html#data-mart",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "Ciclo de Práticas XP"
+    "text": "Generalização do Data Warehouse com escopo limitado a um departamento."
   },
   {
-    "objectID": "papiros/agile/scrum.html",
-    "href": "papiros/agile/scrum.html",
-    "title": "SCRUM",
+    "objectID": "papiros/bd/bi.html#data-lake",
+    "href": "papiros/bd/bi.html#data-lake",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo.\n\n\n\n\n\nBaseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)\n\n\n\n\n\nIndicado para pequenos times auto-organizáveis: - Até 10 pessoas\n\n\n\n\n\n\n\n\n\n\n\n\n#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças\n\n\n\n\n\n\n\n\nProduct Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores\n\n\n\n\n\n\n\n\nresumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\nProcesso de quebra de épicos em histórias ready (menores, palpáveis em relação a uma sprint) que ocorre antes da Sprint Planning com a participação de Devs e Product Owner. ***\n\n\n\n\n\n\n\n\nGerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
+    "text": "Repositório de dados brutos:\n\nNão filtrados\nNão formatados\nNão estruturados"
   },
   {
-    "objectID": "papiros/agile/scrum.html#definição",
-    "href": "papiros/agile/scrum.html#definição",
-    "title": "SCRUM",
+    "objectID": "papiros/bd/bi.html#modelo-dimensional",
+    "href": "papiros/bd/bi.html#modelo-dimensional",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "Framework ágil que define papéis e eventos específicos para a gestão do trabalho em equipe, estruturado em iterações curtas (sprints) com objetivos definidos, buscando entregas incrementais de valor e a adaptação contínua ao contexto, com foco na gestão do projeto como um todo."
+    "text": "“Imagem 4 - Modelo Estrela”\n\n\n\ntabelas dimensionais não normalizadas implicam:\n\nmaior espaço em disco (redundância de dados)\nunicidade (não há subdimensões)\nligam-se apenas a Tabela de Fatos (não entre si)\n\n\n\n\n\n * tabelas dimensionais normalizadas: - maior complexidade de consultas (JOINS) * subdimensões não se relacionam diretamente com a fact table * dimensões “adjacentes” não se relacionam"
   },
   {
-    "objectID": "papiros/agile/scrum.html#características",
-    "href": "papiros/agile/scrum.html#características",
-    "title": "SCRUM",
+    "objectID": "papiros/bd/bi.html#olap---online-analytics-processing",
+    "href": "papiros/bd/bi.html#olap---online-analytics-processing",
+    "title": "Business Inteligence",
     "section": "",
-    "text": "Baseado em Empirismo, Lean e Agile\nIterativo e Incremental (I & I)\nExecutado em Ciclos (Sprints)"
-  },
-  {
-    "objectID": "papiros/agile/scrum.html#quando-usar",
-    "href": "papiros/agile/scrum.html#quando-usar",
-    "title": "SCRUM",
-    "section": "",
-    "text": "Indicado para pequenos times auto-organizáveis: - Até 10 pessoas"
-  },
-  {
-    "objectID": "papiros/agile/scrum.html#pilares",
-    "href": "papiros/agile/scrum.html#pilares",
-    "title": "SCRUM",
-    "section": "",
-    "text": "#\nPilar\nDescrição\n\n\n\n\n1\nTransparência\nToda informação relevante deve ser visível para todos os envolvidos\n\n\n2\nInspeção\nAvaliar regularmente o progresso e o trabalho realizado\n\n\n3\nAdaptação\nAjustar planos rapidamente diante de descobertas ou mudanças"
-  },
-  {
-    "objectID": "papiros/agile/scrum.html#artefatos",
-    "href": "papiros/agile/scrum.html#artefatos",
-    "title": "SCRUM",
-    "section": "",
-    "text": "Product Backlog (PB)\nSprint Backlog (SB) &gt; Itens do PB selecionados/priorizados &gt; Metas &gt; Plano de entrega\nIncremento &gt; Soma de todos os itens concluídos durante a Sprint mais os incrementos anteriores"
-  },
-  {
-    "objectID": "papiros/agile/scrum.html#eventos",
-    "href": "papiros/agile/scrum.html#eventos",
-    "title": "SCRUM",
-    "section": "",
-    "text": "resumo dos eventos scrum\n\n\n\n\n\n\n\nEvento\n⏳ Duração Máxima\n\n\n\n\nSprint Planning\n8h\n\n\nDaily Scrum\n15m\n\n\nSprint Review\n4h\n\n\nSprint Retrospective\n3h\n\n\n\n\n\n\n\nAtividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.\n\n\n\n\n\nProcesso de quebra de épicos em histórias ready (menores, palpáveis em relação a uma sprint) que ocorre antes da Sprint Planning com a participação de Devs e Product Owner. ***"
-  },
-  {
-    "objectID": "papiros/agile/scrum.html#time-scrum",
-    "href": "papiros/agile/scrum.html#time-scrum",
-    "title": "SCRUM",
-    "section": "",
-    "text": "Gerenciar prioridades no PB\n\nDefinir metas do produto\n\nSolicitar cancelamento da Sprint, se a meta se tornar obsoleta\n\n\n\n\n\nGarantir a aplicação dos fundamentos do Scrum\n\nRemover impedimentos externos\n\nFacilitar a comunicação entre PO e Developers\n\n\n\n\n\nGerenciar o SB\n\nEstimar e executar tarefas\n\nEntregar incrementos de valor"
-  },
-  {
-    "objectID": "papiros/governanca/bpmn.html",
-    "href": "papiros/governanca/bpmn.html",
-    "title": "Business Process Modeling Notation",
-    "section": "",
-    "text": "Prover recursos e elementos para modelar os processos de negócio.\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders.\n\n\n\n\n\n\n\nSão denominados de Pontos de Ativação de caráter condicional ou incondicional.\nAtuam como decisores de fluxo do processo e são representados por diamantes/losangos.\nO Gateway Baseado em Eventos utiliza lógica semelhante ao Gateway Exclusivo: o primeiro evento a ocorrer será o que dará sequência no fluxo do processo. Em vez de um dado/informação como condição, o que determina a sequência do fluxo é a ocorrência de um evento. Um caso de uso frequente é quando os próximos passos dependem de eventos distintos: por exemplo – a chegada de uma mensagem OU uma condição que se torne verdadeira OU um determinado prazo atingido.\n\n\n\nFigura 1 - Gateways Disponíveis\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\nFigura 2 - Tipos de Eventos Disponíveis\n\n\n\n\n\n\n\nFigura 3 - Exemplos de Eventos Iniciais\n\n\n\n\n\n\n\n\nFigura 4 - Exemplos de Eventos Intermediários\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\n\n\n\n\n\nTipos/Características\nExecução\nComportamento\nÍcones\n\n\n\n\nAutomatizadas\nSoftwares\nConsistentes, rápidas, menos sujeitas a enganos humanos.\nEngrenagens/Raios\n\n\nManuais\nPessoas\nPotenciais atrasos, variabilidade, enganos humanos.\nMãos/Nenhum\n\n\n\n\n\n\nFigura 5 - Atividades Disponíveis"
-  },
-  {
-    "objectID": "papiros/governanca/bpmn.html#objetivo",
-    "href": "papiros/governanca/bpmn.html#objetivo",
-    "title": "Business Process Modeling Notation",
-    "section": "",
-    "text": "Prover recursos e elementos para modelar os processos de negócio.\nPermitir a compreensão dos processos de negócio por analistas de negócio, gerentes, técnicos, usuários e stakeholders."
-  },
-  {
-    "objectID": "papiros/governanca/bpmn.html#elementos",
-    "href": "papiros/governanca/bpmn.html#elementos",
-    "title": "Business Process Modeling Notation",
-    "section": "",
-    "text": "São denominados de Pontos de Ativação de caráter condicional ou incondicional.\nAtuam como decisores de fluxo do processo e são representados por diamantes/losangos.\nO Gateway Baseado em Eventos utiliza lógica semelhante ao Gateway Exclusivo: o primeiro evento a ocorrer será o que dará sequência no fluxo do processo. Em vez de um dado/informação como condição, o que determina a sequência do fluxo é a ocorrência de um evento. Um caso de uso frequente é quando os próximos passos dependem de eventos distintos: por exemplo – a chegada de uma mensagem OU uma condição que se torne verdadeira OU um determinado prazo atingido.\n\n\n\nFigura 1 - Gateways Disponíveis\n\n\n\n\n\nRepresentam a espera de que um fato aconteça para iniciar/prosseguir a execução do processo ou então sinalizar de que o processo produzirá a ocorrência de um fato durante ou ao término de sua execução.\n\n\n\nFigura 2 - Tipos de Eventos Disponíveis\n\n\n\n\n\n\n\nFigura 3 - Exemplos de Eventos Iniciais\n\n\n\n\n\n\n\n\nFigura 4 - Exemplos de Eventos Intermediários\n\n\n\n\n\n\nRepresentam um trabalho que será executado dentro do processo, podem ser divididas em subprocessos, de caráter composto, ou tarefas, de caráter atômico (não pode ser decomposta), e são simbolizados por quadrados.\n\n\n\n\n\n\n\n\n\nTipos/Características\nExecução\nComportamento\nÍcones\n\n\n\n\nAutomatizadas\nSoftwares\nConsistentes, rápidas, menos sujeitas a enganos humanos.\nEngrenagens/Raios\n\n\nManuais\nPessoas\nPotenciais atrasos, variabilidade, enganos humanos.\nMãos/Nenhum\n\n\n\n\n\n\nFigura 5 - Atividades Disponíveis"
+    "text": "“Imagem 6 - Cubo OLAP”\n\n\n\nPermite a análise e manipulação de um grande volume de dados através de diferentes perspectivas.\n\n\n\n\nRoll-Up:\n\nAgregar\nMaior granularidade\n\nDrill-Down:\n\nDesmembrar\nMenor granularidade\n\nDrill-Across:\n\nPular um nível intermediario\n\nDrill-Through:\n\nMudar a dimensão de uma informação\n\nPivot:\n\nRotacionar cubo\nTranspor uma matriz\n\nSlice:\n\nSelecionar uma dimensão\nFiltrar\n\nDice:\n\nSelecionar duas ou mais dimensões\nSelecionar um cubo\nFiltrar um Slice"
   },
   {
     "objectID": "papiros/pds/cmmi.html",
