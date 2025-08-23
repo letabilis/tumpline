@@ -64,6 +64,8 @@ Indicado para **pequenos times auto-organizáveis**:
 ### 🔍 Spike
 > Atividade de pesquisa ou exploração técnica para reduzir incertezas antes de comprometer um item no Sprint Backlog.
 
+### Refinamento de Histórias
+> Processo de quebra de *épicos* em histórias *ready* (menores, palpáveis em relação a uma sprint) que ocorre **antes** da *Sprint Planning* com a participação de Devs e Product Owner.
 ***
 
 ## 👥 Time SCRUM
