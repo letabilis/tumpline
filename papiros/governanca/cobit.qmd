@@ -1,6 +1,6 @@
 ---
 title: "COBIT 2019"
-description: "Estrutura de GCIT desenvolvida pela ISACA
+description: "Estrutura de GCIT desenvolvida pela ISACA"
 author: "sdLn"
 date: "2025-08-19"
 categories: ["Governança de TI"]
